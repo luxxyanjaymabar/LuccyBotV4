@@ -1,8 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `📮 _*SC GA GRATIS KAK:(, CHAT OWNER UNTUK MEMBELI SCNYA!1!1!1!*_
+let info = `📮 _*Sc? Punya Fangz*_
 
-Chat Owner Ke Nomor Dibawah Ini:3
-wa.me/6288210072756
+Kalo Mau Ambil Di Yt : Fangz Bot
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*FANGZ BOT GITHUB*', 'status@broadcast') 
