@@ -81,7 +81,7 @@ const listMessage = {
 │▸ *sɴ:* ${sn}
 ╰═┅═━––––––๑
 
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: FANGZ BOT
+ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: LUCCY BOT
 `
   let buttonMessage= {
 'document':{'url':'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg'},
