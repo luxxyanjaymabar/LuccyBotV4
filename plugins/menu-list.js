@@ -13,6 +13,7 @@ const sections = [
 	title: `✃ LIST MENU`,
 	rows: [
 	    {title: "∫ 🧿» Simpel «", rowId: '.m', description: '╰► Menu simpel LuccyBot' },
+	    {title: "∫ 💕» Keceh «", rowId: '.m', description: '╰► Menu kece LuccyBot' },
         ]
         }, 
 
